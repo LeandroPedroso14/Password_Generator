@@ -5,3 +5,6 @@ import os
 class PassGen:
    def __init__(self):
       pass
+   def Iniciar(self):
+      pass
+    
