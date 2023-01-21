@@ -7,4 +7,5 @@ class PassGen:
       pass
    def Iniciar(self):
       pass
-    
+   def salvar_senha(self):
+      pass
