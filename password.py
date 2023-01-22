@@ -9,3 +9,5 @@ class PassGen:
       pass
    def salvar_senha(self):
       pass
+
+gen = PassGen()
