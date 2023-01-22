@@ -11,3 +11,4 @@ class PassGen:
       pass
 
 gen = PassGen()
+gen.Iniciar()
