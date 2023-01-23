@@ -22,7 +22,11 @@ class PassGen:
       self.janela = sg.Window('Password Generator',layout)
 
    def Iniciar(self):
-      pass
+       while True:
+           evento,valores = self.janela.read()
+           if evento == sg.WINDOW_CLOSED:
+               break
+
    def salvar_senha(self):
       pass
 
