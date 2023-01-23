@@ -19,6 +19,7 @@ class PassGen:
 
       ]
       #Declarar Janela
+      self.janela = sg.Window('Password Generator',layout)
 
    def Iniciar(self):
       pass
