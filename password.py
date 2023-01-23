@@ -13,7 +13,7 @@ class PassGen:
           [sg.Text('Quantidade de caracteres'), sg.Combo(values=list(
               range(30)),key='total_chars', defoult_value=1, size=(3,1))]
           [sg.Output(size=(32, 5))],
-          [sg.]
+          [sg.Button('Gerar senha')]
            
 
       ]
