@@ -27,6 +27,7 @@ class PassGen:
             if evento == sg.WINDOW_CLOSED:
                 break
             if evento == 'Gerar senha':
+                nova_senha = self.gerar_senha(valores)
 
     def salvar_senha(self):
         pass
