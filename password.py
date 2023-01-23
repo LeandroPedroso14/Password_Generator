@@ -5,6 +5,9 @@ import os
 class PassGen:
    def __init__(self):
       sg.theme('Black')
+      layout = [
+          [sg]
+      ]
       
    def Iniciar(self):
       pass
