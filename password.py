@@ -12,6 +12,7 @@ class PassGen:
            sg.Input(key='usuario', size=(20,1))],
           [sg.Text('Quantidade de caracteres'),
            sg.Combo(values=list(range(30)))],
+      ]
 
    def Iniciar(self):
       pass
