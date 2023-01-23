@@ -28,6 +28,10 @@ class PassGen:
                 break
             if evento == 'Gerar senha':
                 nova_senha = self.gerar_senha(valores)
+                print(nova_senha)
+
+    def gerar_senha(self, valores):
+        pass
 
     def salvar_senha(self):
         pass
