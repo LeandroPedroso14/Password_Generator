@@ -18,6 +18,7 @@ class PassGen:
            
 
       ]
+      #Declarar Janela
 
    def Iniciar(self):
       pass
