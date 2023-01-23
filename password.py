@@ -6,7 +6,7 @@ class PassGen:
    def __init__(self):
       sg.theme('Black')
       layout = [
-          [sg.Text('Login',size=(10,1))]
+          [sg.Text('Login',size=(10,1)),sg.Input()]
       ]
 
    def Iniciar(self):
