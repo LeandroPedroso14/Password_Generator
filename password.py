@@ -8,7 +8,8 @@ class PassGen:
       layout = [
           [sg.Text('Login',size=(10,1)),
            sg.Input(key='site', size=(20,1))],
-          [sg.Text('E-mail',size=(10,1))]
+          [sg.Text('E-mail',size=(10,1))],
+           sg.Input(key='usuario', size=(20,1))],
       ]
 
    def Iniciar(self):
