@@ -11,7 +11,8 @@ class PassGen:
           [sg.Text('E-mail',size=(10,1)),
            sg.Input(key='usuario', size=(20,1))],
           [sg.Text('Quantidade de caracteres'),
-           sg.Combo(values=list(range(30)))],
+           sg.Combo(values=list(range(30)),key='total_chars')],
+           
       ]
 
    def Iniciar(self):
