@@ -4,7 +4,8 @@ import os
 
 class PassGen:
    def __init__(self):
-      pass
+      sg.theme('Black')
+      
    def Iniciar(self):
       pass
    def salvar_senha(self):
