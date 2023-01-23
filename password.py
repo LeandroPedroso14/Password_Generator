@@ -26,6 +26,7 @@ class PassGen:
             evento, valores = self.janela.read()
             if evento == sg.WINDOW_CLOSED:
                 break
+            if evento == 'Gerar senha':
 
     def salvar_senha(self):
         pass
