@@ -29,6 +29,7 @@ class PassGen:
             if evento == 'Gerar senha':
                 nova_senha = self.gerar_senha(valores)
                 print(nova_senha)
+                self.salvar_senha(nova_senha, valores)
 
     def gerar_senha(self, valores):
         char_list = 'ABCDEFGHIJLMNOPQRSTUVXZKWYabcdefghijklmnopqrstuvxzkwy1234567890!@#$%"&*'
