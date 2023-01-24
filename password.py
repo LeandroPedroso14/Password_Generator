@@ -31,7 +31,7 @@ class PassGen:
                 print(nova_senha)
 
     def gerar_senha(self, valores):
-        pass
+        char_list = 'ABCDEFGHIJLMNOPQRSTUVXZKWYabcdefghijklmnopqrstuvxzkwy1234567890!@#$%"&*'
 
     def salvar_senha(self):
         pass
