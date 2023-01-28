@@ -6,6 +6,9 @@ Password generator 🔐
   ![Gif cadeado](https://user-images.githubusercontent.com/106255930/215228246-1d596b71-0837-4167-a02a-8e7d8dbc38ae.gif)
 </h1>
 
+<h2 align="center">
+Generator options
+</h2>
 
 <h3>Access my post on linkedin.</h3>
 
