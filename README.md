@@ -14,6 +14,7 @@ Generator options
 - Setting the email
 - Setting the number of characters for the password
 - Button to generate password
+- Save login information
 
 <h3>Access my post on linkedin.</h3>
 
