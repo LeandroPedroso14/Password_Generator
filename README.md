@@ -12,6 +12,7 @@ Generator options
 
 - Define the platform
 - Setting the email
+- Setting the number of characters for the password
 
 <h3>Access my post on linkedin.</h3>
 
