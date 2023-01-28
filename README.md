@@ -9,6 +9,7 @@ Password generator 🔐
 <h2 align="center">
 Generator options
 </h2>
+- Define the platform
 
 <h3>Access my post on linkedin.</h3>
 
