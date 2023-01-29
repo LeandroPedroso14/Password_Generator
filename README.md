@@ -34,4 +34,4 @@ Generator options
  🛠 Technologies
 </h2>
 
-Tools used
+Tools for the generator
