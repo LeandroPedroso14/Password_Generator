@@ -34,4 +34,6 @@ Generator options
  🛠 Technologies
 </h2>
 
-Tools for the generator
+Tools for the generator:
+
+- [Python](https://www.python.org/)
