@@ -37,3 +37,4 @@ Generator options
 Tools for the generator:
 
 - [Python](https://www.python.org/)
+- [VS CODE](https://code.visualstudio.com/)
